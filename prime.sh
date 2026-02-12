@@ -1,3 +1,6 @@
+#Aim:To write and execute a Shell script that checks whether a given number is 
+#    prime or not using a loop and conditional statements.
+
 echo "enter number"
 read n
 

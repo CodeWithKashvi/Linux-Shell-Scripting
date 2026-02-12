@@ -1,4 +1,7 @@
-#!/bin/bash
+#To understand and implement nested loops in Shell scripting for pattern generation.
+#        1 2 3
+#        1 2
+#        1
 
 for ((i=3; i>=1; i--))
 do
