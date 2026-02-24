@@ -1,3 +1,4 @@
+#Aim:To write a Bash shell script to read n elements into an array and display the even numbers from the array.
 #!/bin/bash
 
 echo "Enter number of elements:"

@@ -1,4 +1,5 @@
 #!/bin/bash
+#Aim:To write a Bash shell script to print all prime numbers between 2 and 100.
 
 for ((num=2; num<=100; num++))
 do
